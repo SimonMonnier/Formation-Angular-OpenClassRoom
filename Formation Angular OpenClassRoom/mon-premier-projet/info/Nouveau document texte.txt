@@ -1,7 +1,0 @@
-Commande angular :
-
-*Lancer le server
-    ng serve --open
-
-*Créer un component
-    ng generate component mon-premier 
